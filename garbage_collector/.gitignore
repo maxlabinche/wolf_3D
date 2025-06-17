@@ -1,0 +1,6 @@
+obj
+garbage
+*.o
+*.a
+garbage.a
+*.log
