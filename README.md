@@ -98,6 +98,7 @@ The game includes:
 - Memory management
 - Performance profiling (`make analyse`)
 
-## License
+## Partner
 
-This project is part of EPITECH's curriculum.
+https://github.com/MyEcoria
+https://github.com/MathisBrossier
